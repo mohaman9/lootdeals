@@ -3,10 +3,10 @@
 // ============================================================
 // 1) Put the `deals/` folder into your PUBLIC GitHub repository.
 // 2) Change GITHUB_REPO to: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
-// 3) Change AMAZON_AFFILIATE_TAG to your real Amazon Associates tag.
+// 3) Change  to your real .
 //
 // Example:
-// window.GITHUB_REPO = 'irfans/amazon-deals';
+// window.GITHUB_REPO = 'mohaman9/lootdeals';
 // window.GITHUB_REF = 'main';
 // window.AMAZON_AFFILIATE_TAG = 'yourtag-21';
 //
@@ -14,7 +14,7 @@
 // The affiliate tag is intentionally visible in browser links. This is
 // normal for Amazon Associates links. Never put GitHub passwords or PATs here.
 
-window.GITHUB_REPO = 'YOUR_GITHUB_USERNAME/amazon-deals';
+window.GITHUB_REPO = 'mohaman9/lootdeals';
 window.GITHUB_REF = 'main';
 
 // Put your REAL Amazon Associates tag here.
